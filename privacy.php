@@ -216,7 +216,7 @@ VOKS Technologies is located at:<br/><br><strong>
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>VOKS</strong> 2020. All Rights Reserved
+        &copy; Copyright <strong>VOKS technologies</strong> 2020. All Rights Reserved
       </div>
       <div class="credits">
         <!--
